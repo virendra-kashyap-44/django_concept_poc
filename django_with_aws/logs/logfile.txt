@@ -1,0 +1,4 @@
+Found 3 records created within last 6 hours!
+ID: 6dda210b-e2b4-482c-8427-9fe62db70f57, Status: failed, Created: 2025-06-11 06:36:19.418767+00:00
+ID: 26ff9a10-bd14-4aff-b3e8-66a84e0e1993, Status: failed, Created: 2025-06-11 06:36:50.550382+00:00
+ID: 79546fe3-c078-4f67-8f50-e62d51eef7a2, Status: pending, Created: 2025-06-11 06:39:19.307045+00:00
